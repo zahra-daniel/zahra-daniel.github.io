@@ -3,5 +3,9 @@
     margin: 0;
     outline: 0;
     border: 0;
+}
+
+h1 {
     font-family: sans-serif;
+    font-size: 40px;
 }
